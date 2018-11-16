@@ -1,6 +1,6 @@
 //Authors: Yixiao Yue
 //Implementation of the classes defined in BinarySearchTreeCard.h
-
+#include 'BinarySearchTree.h"
 #include <iostream>
 using namespace std;
 
